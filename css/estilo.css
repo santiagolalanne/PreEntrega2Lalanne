@@ -20,3 +20,4 @@ footer{background-color: #74c69d; border: 1px solid black}
 .anclas{font-size: 1.3rem;color:black;font-weight: 450;}
 .anclas:hover{ text-decoration: underline; color: midnightblue;}
 .colorfondo{background-color: #74c69d;}
+.imgcarousel{height: 350px; object-fit: cover;}
